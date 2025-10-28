@@ -1,0 +1,14 @@
+{
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/CVS": true,
+        "**/.DS_Store": true,
+        "**/Thumbs.db": true,
+        "playlist_songs.txt": true
+    },
+    "hide-files.files": [
+        "playlist_songs.txt"
+    ]
+}
